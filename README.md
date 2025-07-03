@@ -12,6 +12,7 @@ Applying a classifier (e.g. Naive Bayes, SVM, Random Forest) on those sentence e
 Evaluating the model performance.
 
 📁 Repository Structure
+
 ├── data/                 # (Optional) Raw & preprocessed datasets
 ├── notebooks/           # Jupyter notebooks for experiments
 ├── src/
