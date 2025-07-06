@@ -1,4 +1,5 @@
-🚀 Overview
+## 🚀 Overview
+
 This project demonstrates how to build a spam classifier by:
 
 -Preprocessing message text (tokenize, lowercase, remove stopwords/non-English, lemmatize).
@@ -11,7 +12,7 @@ This project demonstrates how to build a spam classifier by:
 
 -Evaluating the model performance.
 
-📁 Repository Structure
+## 📁 Repository Structure
 ```
 ├── data/                 # (Optional) Raw & preprocessed datasets
 ├── notebooks/           # Jupyter notebooks for experiments
@@ -26,7 +27,7 @@ This project demonstrates how to build a spam classifier by:
 └── LICENSE               # Project license
 ```
 
-⚙️ Installation & Setup
+## ⚙️ Installation & Setup
 Clone the repo
 ```
 git clone https://github.com/ShivamMitra/Spam-Ham-Project-Using-Word-2Vec.git
@@ -47,7 +48,7 @@ Download NLTK data (if used)
 python -c "import nltk; nltk.download('punkt'); nltk.download('stopwords')"
 ```
 
-💡 Usage
+## 💡 Usage
 1. Prepare your data
 Place raw text in data/raw/
 
