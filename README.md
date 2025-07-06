@@ -1,15 +1,15 @@
 🚀 Overview
 This project demonstrates how to build a spam classifier by:
 
-Preprocessing message text (tokenize, lowercase, remove stopwords/non-English, lemmatize).
+-Preprocessing message text (tokenize, lowercase, remove stopwords/non-English, lemmatize).
 
-Training or loading Word2Vec embeddings (via Gensim).
+-Training or loading Word2Vec embeddings (via Gensim).
 
-Aggregating word vectors into sentence-level vectors.
+-Aggregating word vectors into sentence-level vectors.
 
-Applying a classifier (e.g. Naive Bayes, SVM, Random Forest) on those sentence embeddings.
+-Applying a classifier (e.g. Naive Bayes, SVM, Random Forest) on those sentence embeddings.
 
-Evaluating the model performance.
+-Evaluating the model performance.
 
 📁 Repository Structure
 ```
