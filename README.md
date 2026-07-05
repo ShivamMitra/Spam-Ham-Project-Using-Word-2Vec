@@ -6,7 +6,7 @@ A concise spam-ham classification project using word embeddings. This repository
 
 The project follows these steps:
 
-1. **Preprocess** message text — tokenize, lowercase, remove stopwords/non-English words, and lemmatize.
+1. **Preprocess** message text - tokenize, lowercase, remove stopwords/non-English words, and lemmatize.
 2. **Train or load** Word2Vec embeddings using Gensim.
 3. **Aggregate** word vectors into sentence-level vectors (Average Word2Vec).
 4. **Train** a classifier (e.g., Naive Bayes, SVM, Random Forest) on the sentence embeddings.
